@@ -1,0 +1,18 @@
+global-styling:
+  version: 1.x
+  css:
+    theme:
+      css/styles.css: {}
+      css/main.css: {}
+      css/noscript.css: {}
+      css/font-awesome.min.css: {}
+global-scripts:
+  version: 1.x
+  js:
+    js/jquery.min.js: {}
+    js/jquery.scrolly.min.js: {}
+    js/jquery.scrollex.min.js: {}
+    js/browser.min.js: {}
+    js/breakpoints.min.js: {}
+    js/util.js: {}
+    js/main.js: {}

@@ -1,0 +1,12 @@
+name: Forty 8.x-dev
+type: theme
+description: 'HTML5 UP Forty drupalize theme.'
+core: 8.x
+libraries: 
+  - forty/global-styling
+  - forty/global-scripts
+regions:
+  header: Header
+  content: Content
+  sidebar_first: 'Sidebar first'
+  footer: Footer
