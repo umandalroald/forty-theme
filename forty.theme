@@ -1,0 +1,15 @@
+<?php
+
+/**
+ * @file
+ * Functions to support theming in the Forty theme.
+ */
+
+ /**
+ * Implements hook_preprocess_HOOK() for HTML document templates.
+ *
+ * Adds body classes if certain regions have content.
+ */
+function forty_preprocess_html(&$variables) {
+  /* Nothing added yet. */
+}
